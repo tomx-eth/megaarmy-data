@@ -1,0 +1,2085 @@
+[
+  {
+    "name": "megaeth",
+    "img": "https://logo.svgcdn.com/token-branded/mega-eth.png",
+    "description": "The First Real-Time Blockchain",
+    "twitter": "megaeth_labs",
+    "website": "https://www.megaeth.com/",
+    "category": "Infra"
+  },
+  {
+    "name": "chainlink",
+    "img": "https://coin-images.coingecko.com/coins/images/877/large/Chainlink_Logo_500.png?1760023405",
+    "description": "Decentralized oracle network",
+    "twitter": "chainlink",
+    "website": "https://chain.link/",
+    "category": "Oracle"
+  },
+  {
+    "name": "uniswap",
+    "img": "https://coin-images.coingecko.com/coins/images/12504/large/uniswap-logo.png?1720676669",
+    "description": "Decentralized exchange protocol",
+    "twitter": "Uniswap",
+    "website": "https://uniswap.org/",
+    "category": "DEX"
+  },
+  {
+    "name": "circlefin",
+    "img": "https://coin-images.coingecko.com/coins/images/6319/large/usdc.png?1696506694",
+    "description": "USDC stablecoin issuer",
+    "twitter": "circle",
+    "website": "https://www.circle.com/",
+    "category": "Stablecoin"
+  },
+  {
+    "name": "optimism",
+    "img": "https://coin-images.coingecko.com/coins/images/25244/large/Optimism.png?1696524385",
+    "description": "Ethereum Layer 2 scaling solution",
+    "twitter": "Optimism",
+    "website": "https://www.optimism.io/",
+    "category": "L2"
+  },
+  {
+    "name": "layer-zero",
+    "img": "https://coin-images.coingecko.com/coins/images/28206/large/ftxG9_TJ_400x400.jpeg?1696527208",
+    "description": "Omnichain interoperability protocol",
+    "twitter": "LayerZero_Labs",
+    "website": "https://layerzero.network/",
+    "category": "Bridge"
+  },
+  {
+    "name": "mega-warren",
+    "img": "https://pbs.twimg.com/profile_images/1893768252955627520/vKQmXTlP_400x400.jpg",
+    "description": "MegaETH native meme coin",
+    "twitter": "mega_warren",
+    "website": "https://mega-warren.com/",
+    "category": "Meme"
+  },
+  {
+    "name": "aave",
+    "img": "https://coin-images.coingecko.com/coins/images/12645/large/AAVE.png?1696512452",
+    "description": "Decentralized lending protocol",
+    "twitter": "aaborrowcast",
+    "website": "https://aave.com/",
+    "category": "DeFi"
+  },
+  {
+    "name": "curve",
+    "img": "https://coin-images.coingecko.com/coins/images/12124/large/Curve.png?1696511967",
+    "description": "Decentralized exchange for stablecoins",
+    "twitter": "CurveFinance",
+    "website": "https://curve.fi/",
+    "category": "DEX"
+  },
+  {
+    "name": "metamask",
+    "img": "https://coin-images.coingecko.com/coins/images/12504/large/metamask-fox.png",
+    "description": "Crypto wallet and gateway to blockchain",
+    "twitter": "MetaMask",
+    "website": "https://metamask.io/",
+    "category": "Wallet"
+  },
+  {
+    "name": "opensea",
+    "img": "https://pbs.twimg.com/profile_images/2014958165050507264/dvbOLNLL_400x400.jpg",
+    "description": "NFT marketplace",
+    "twitter": "opensea",
+    "website": "https://opensea.io/",
+    "category": "NFT"
+  },
+  {
+    "name": "pancakeswap",
+    "img": "https://coin-images.coingecko.com/coins/images/12632/large/pancakeswap-cake-logo.png",
+    "description": "Decentralized exchange",
+    "twitter": "PancakeSwap",
+    "website": "https://pancakeswap.finance/",
+    "category": "DEX"
+  },
+  {
+    "name": "sushi",
+    "img": "https://coin-images.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png",
+    "description": "Decentralized exchange protocol",
+    "twitter": "SushiSwap",
+    "website": "https://www.sushi.com/",
+    "category": "DEX"
+  },
+  {
+    "name": "1-inch",
+    "img": "https://coin-images.coingecko.com/coins/images/13469/large/1inch-token.png",
+    "description": "DEX aggregator",
+    "twitter": "1inch",
+    "website": "https://1inch.io/",
+    "category": "DEX"
+  },
+  {
+    "name": "stargate-finance",
+    "img": "https://coin-images.coingecko.com/coins/images/24413/large/STG_LOGO.png",
+    "description": "Cross-chain bridge",
+    "twitter": "StargateFinance",
+    "website": "https://stargate.finance/",
+    "category": "Bridge"
+  },
+  {
+    "name": "gmx-io",
+    "img": "https://pbs.twimg.com/profile_images/1976306246476234752/htrS8yGK_400x400.jpg",
+    "description": "Decentralized perpetual exchange",
+    "twitter": "GMX_IO",
+    "website": "https://gmx.io/",
+    "category": "DEX"
+  },
+  {
+    "name": "axelar",
+    "img": "https://coin-images.coingecko.com/coins/images/27277/large/V-65_xQ1_400x400.jpeg",
+    "description": "Cross-chain communication protocol",
+    "twitter": "axeaborwireork",
+    "website": "https://axelar.network/",
+    "category": "Bridge"
+  },
+  {
+    "name": "wormhole",
+    "img": "https://coin-images.coingecko.com/coins/images/35087/large/wormhole_logo_full_color_rgb_2k.png",
+    "description": "Cross-chain messaging protocol",
+    "twitter": "wormhole",
+    "website": "https://wormhole.com/",
+    "category": "Bridge"
+  },
+  {
+    "name": "coinbase",
+    "img": "https://coin-images.coingecko.com/coins/images/31053/large/coinbase_logo.png",
+    "description": "Cryptocurrency exchange",
+    "twitter": "coinbase",
+    "website": "https://www.coinbase.com/",
+    "category": "Exchange"
+  },
+  {
+    "name": "makerdao",
+    "img": "https://coin-images.coingecko.com/coins/images/1364/large/Mark_Maker.png",
+    "description": "Decentralized stablecoin protocol",
+    "twitter": "MakerDAO",
+    "website": "https://makerdao.com/",
+    "category": "DeFi"
+  },
+  {
+    "name": "pendle-finance",
+    "img": "https://coin-images.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png",
+    "description": "Yield trading protocol",
+    "twitter": "penabordefi",
+    "website": "https://pendle.finance/",
+    "category": "DeFi"
+  },
+  {
+    "name": "ethena-labs",
+    "img": "https://coin-images.coingecko.com/coins/images/33613/large/USDE.png",
+    "description": "Synthetic dollar protocol",
+    "twitter": "ethena_labs",
+    "website": "https://ethena.fi/",
+    "category": "DeFi"
+  },
+  {
+    "name": "etherfi",
+    "img": "https://coin-images.coingecko.com/coins/images/35958/large/etherfi.png",
+    "description": "Decentralized staking protocol",
+    "twitter": "ether_fi",
+    "website": "https://www.ether.fi/",
+    "category": "DeFi"
+  },
+  {
+    "name": "ensdomains",
+    "img": "https://coin-images.coingecko.com/coins/images/19785/large/acatxTm8_400x400.jpg",
+    "description": "Ethereum Name Service",
+    "twitter": "ensdomains",
+    "website": "https://ens.domains/",
+    "category": "Identity"
+  },
+  {
+    "name": "worldcoin",
+    "img": "https://coin-images.coingecko.com/coins/images/31069/large/worldcoin.jpeg",
+    "description": "Global identity and financial network",
+    "twitter": "worldcoin",
+    "website": "https://worldcoin.org/",
+    "category": "Identity"
+  },
+  {
+    "name": "beefy-finance",
+    "img": "https://pbs.twimg.com/profile_images/1985675769293549568/2n4Wbwx4_400x400.jpg",
+    "description": "Yield optimization platform",
+    "twitter": "beefyfinance",
+    "website": "https://beefy.com/",
+    "category": "DeFi"
+  },
+  {
+    "name": "ondoprotocol",
+    "img": "https://coin-images.coingecko.com/coins/images/26580/large/ONDO.png",
+    "description": "Institutional-grade DeFi protocol",
+    "twitter": "OndoFinance",
+    "website": "https://ondo.finance/",
+    "category": "DeFi"
+  },
+  {
+    "name": "0xeigenlabs",
+    "img": "https://coin-images.coingecko.com/coins/images/37540/large/eigen.jpg",
+    "description": "Restaking protocol",
+    "twitter": "eigenlayer",
+    "website": "https://www.eigenlayer.xyz/",
+    "category": "DeFi"
+  },
+  {
+    "name": "noxa-fun",
+    "img": "https://pbs.twimg.com/profile_images/1881095917421350912/gKrINVDw_400x400.jpg",
+    "description": "MegaETH native project",
+    "twitter": "noxa_fun",
+    "category": "DeFi"
+  },
+  {
+    "name": "currentx-dex",
+    "img": "https://pbs.twimg.com/profile_images/2002481319108890624/L_z8UmNp_400x400.jpg",
+    "description": "MegaETH Community-first DEX",
+    "twitter": "CurrentXDex",
+    "website": "https://currentx.xyz/",
+    "category": "DEX"
+  },
+  {
+    "name": "prismfi",
+    "img": "https://pbs.twimg.com/profile_images/1983162938291568640/JRp6wOPA_400x400.jpg",
+    "description": "DeFi protocol",
+    "twitter": "prismfi_xyz",
+    "category": "DeFi"
+  },
+  {
+    "name": "magpieprotocol",
+    "img": "https://pbs.twimg.com/profile_images/1913594168376422400/Y5lUwSJU_400x400.jpg",
+    "description": "Cross-chain liquidity protocol (Fly Trade)",
+    "twitter": "magpieprotocol",
+    "category": "DeFi"
+  },
+  {
+    "name": "dydx",
+    "img": "https://logo.svgcdn.com/token-branded/dydx.png",
+    "description": "Decentralized derivatives exchange",
+    "twitter": "dYdX",
+    "website": "https://dydx.exchange/",
+    "category": "DEX"
+  },
+  {
+    "name": "synthetix",
+    "img": "https://logo.svgcdn.com/token-branded/snx.png",
+    "description": "Decentralized synthetic assets protocol",
+    "twitter": "synthetix_io",
+    "website": "https://synthetix.io/",
+    "category": "DeFi"
+  },
+  {
+    "name": "arbitrumfoundation",
+    "img": "https://logo.svgcdn.com/token-branded/arb.png",
+    "description": "Ethereum Layer 2 scaling solution",
+    "twitter": "arbitrum",
+    "website": "https://arbitrum.io/",
+    "category": "L2"
+  },
+  {
+    "name": "base-org",
+    "img": "https://coin-images.coingecko.com/asset_platforms/images/131/large/base.jpeg?1706606519",
+    "description": "Coinbase L2 built on Optimism",
+    "twitter": "base",
+    "website": "https://base.org/",
+    "category": "L2"
+  },
+  {
+    "name": "blur-io",
+    "img": "https://logo.svgcdn.com/token-branded/blur.png",
+    "description": "NFT marketplace for pro traders",
+    "twitter": "blur_io",
+    "website": "https://blur.io/",
+    "category": "NFT"
+  },
+  {
+    "name": "thorchain",
+    "img": "https://logo.svgcdn.com/token-branded/rune.png",
+    "description": "Cross-chain DEX protocol",
+    "twitter": "THORChain",
+    "website": "https://thorchain.org/",
+    "category": "DEX"
+  },
+  {
+    "name": "kyber-swap",
+    "img": "https://coin-images.coingecko.com/coins/images/14899/large/RwdVsGcw_400x400.jpg?1696514562",
+    "description": "DEX aggregator",
+    "twitter": "KyberNetwork",
+    "website": "https://kyberswap.com/",
+    "category": "DEX"
+  },
+  {
+    "name": "velodrome",
+    "img": "https://logo.svgcdn.com/token-branded/velo.png",
+    "description": "Optimism native DEX",
+    "twitter": "VelodromeFi",
+    "website": "https://velodrome.finance/",
+    "category": "DEX"
+  },
+  {
+    "name": "morpho-org",
+    "img": "https://coin-images.coingecko.com/coins/images/35171/large/morpho.jpeg?1707656963",
+    "description": "Lending protocol optimizer",
+    "twitter": "MorphoLabs",
+    "website": "https://morpho.org/",
+    "category": "DeFi"
+  },
+  {
+    "name": "hop-protocol",
+    "img": "https://logo.svgcdn.com/token-branded/hop.png",
+    "description": "Cross-chain bridge protocol",
+    "twitter": "HopProtocol",
+    "website": "https://hop.exchange/",
+    "category": "Bridge"
+  },
+  {
+    "name": "orbiter-finance",
+    "img": "https://pbs.twimg.com/profile_images/1880886737221664768/_uBH9pgt_400x400.jpg",
+    "description": "Cross-rollup bridge",
+    "twitter": "Orbiter_Finance",
+    "website": "https://orbiter.finance/",
+    "category": "Bridge"
+  },
+  {
+    "name": "paraswap",
+    "img": "https://logo.svgcdn.com/token-branded/paraswap.png",
+    "description": "DEX aggregator",
+    "twitter": "paraswap",
+    "website": "https://paraswap.io/",
+    "category": "DEX"
+  },
+  {
+    "name": "cowprotocol",
+    "img": "https://logo.svgcdn.com/token-branded/cow.png",
+    "description": "MEV-protected DEX aggregator",
+    "twitter": "CoWSwap",
+    "website": "https://cow.fi/",
+    "category": "DEX"
+  },
+  {
+    "name": "zerion",
+    "img": "https://logo.svgcdn.com/token-branded/zerion.png",
+    "description": "Web3 wallet and portfolio",
+    "twitter": "zeraborion",
+    "website": "https://zerion.io/",
+    "category": "Wallet"
+  },
+  {
+    "name": "rainbow",
+    "img": "https://logo.svgcdn.com/token-branded/rainbow.png",
+    "description": "Ethereum wallet",
+    "twitter": "rainbowdotme",
+    "website": "https://rainbow.me/",
+    "category": "Wallet"
+  },
+  {
+    "name": "farcasterxyz",
+    "img": "https://coin-images.coingecko.com/coins/images/35382/large/farcaster.jpeg?1708396875",
+    "description": "Decentralized social network",
+    "twitter": "faborarcaster",
+    "website": "https://www.farcaster.xyz/",
+    "category": "Social"
+  },
+  {
+    "name": "gitcoin",
+    "img": "https://logo.svgcdn.com/token-branded/gtc.png",
+    "description": "Open source funding platform",
+    "twitter": "gitcoin",
+    "website": "https://gitcoin.co/",
+    "category": "Social"
+  },
+  {
+    "name": "scroll-tech",
+    "img": "https://logo.svgcdn.com/token-branded/scroll.png",
+    "description": "zkEVM Layer 2",
+    "twitter": "Scroll_ZKP",
+    "website": "https://scroll.io/",
+    "category": "L2"
+  },
+  {
+    "name": "taiko",
+    "img": "https://logo.svgcdn.com/token-branded/taiko.png",
+    "description": "Type 1 zkEVM",
+    "twitter": "taboraikoxyz",
+    "website": "https://taiko.xyz/",
+    "category": "L2"
+  },
+  {
+    "name": "starknet-io",
+    "img": "https://logo.svgcdn.com/token-branded/starknet.png",
+    "description": "Zero-knowledge rollup",
+    "twitter": "Starknet",
+    "website": "https://www.starknet.io/",
+    "category": "L2"
+  },
+  {
+    "name": "zircuit-labs",
+    "img": "https://logo.svgcdn.com/token-branded/zircuit.png",
+    "description": "AI-secured zkEVM rollup",
+    "twitter": "ZircuitL2",
+    "website": "https://www.zircuit.com/",
+    "category": "L2"
+  },
+  {
+    "name": "renzo-protocol",
+    "img": "https://coin-images.coingecko.com/coins/images/35694/large/renzo.png?1709600316",
+    "description": "Liquid restaking protocol",
+    "twitter": "RenzoProtocol",
+    "website": "https://www.renzoprotocol.com/",
+    "category": "DeFi"
+  },
+  {
+    "name": "puffer-fi",
+    "img": "https://coin-images.coingecko.com/coins/images/35176/large/pufETH.png?1707659777",
+    "description": "Liquid restaking protocol",
+    "twitter": "paboruffer_finance",
+    "website": "https://www.puffer.fi/",
+    "category": "DeFi"
+  },
+  {
+    "name": "bitget",
+    "img": "https://coin-images.coingecko.com/coins/images/11681/large/BGB_logo.png?1696511556",
+    "description": "Cryptocurrency exchange",
+    "twitter": "bitget_global",
+    "website": "https://www.bitget.com/",
+    "category": "Exchange"
+  },
+  {
+    "name": "bybit",
+    "img": "https://logo.svgcdn.com/token-branded/bybit.png",
+    "description": "Cryptocurrency exchange",
+    "twitter": "Bybit_Official",
+    "website": "https://www.bybit.com/",
+    "category": "Exchange"
+  },
+  {
+    "name": "crypto-com",
+    "img": "https://logo.svgcdn.com/token-branded/crypto-com.png",
+    "description": "Cryptocurrency platform",
+    "twitter": "cryptocom",
+    "website": "https://crypto.com/",
+    "category": "Exchange"
+  },
+  {
+    "name": "kucoin",
+    "img": "https://logo.svgcdn.com/token-branded/kucoin.png",
+    "description": "Cryptocurrency exchange",
+    "twitter": "kucoincom",
+    "website": "https://www.kucoin.com/",
+    "category": "Exchange"
+  },
+  {
+    "name": "mexc",
+    "img": "https://logo.svgcdn.com/token-branded/mxc.png",
+    "description": "Cryptocurrency exchange",
+    "twitter": "MEXC_Official",
+    "website": "https://www.mexc.com/",
+    "category": "Exchange"
+  },
+  {
+    "name": "okx",
+    "img": "https://logo.svgcdn.com/token-branded/okx.png",
+    "description": "Cryptocurrency exchange",
+    "twitter": "okx",
+    "website": "https://www.okx.com/",
+    "category": "Exchange"
+  },
+  {
+    "name": "decentraland",
+    "img": "https://logo.svgcdn.com/token-branded/mana.png",
+    "description": "Virtual reality platform",
+    "twitter": "decentraland",
+    "website": "https://decentraland.org/",
+    "category": "Metaverse"
+  },
+  {
+    "name": "doodles",
+    "img": "https://coin-images.coingecko.com/nft_contracts/images/11/large/doodles.png?1696509918",
+    "description": "NFT collection and brand",
+    "twitter": "daboroodles",
+    "website": "https://doodles.app/",
+    "category": "NFT"
+  },
+  {
+    "name": "yugalabs",
+    "img": "https://coin-images.coingecko.com/coins/images/24383/large/apecoin.jpg?1696523566",
+    "description": "Bored Ape Yacht Club creators",
+    "twitter": "yugalabs",
+    "website": "https://yuga.com/",
+    "category": "NFT"
+  },
+  {
+    "name": "galagames",
+    "img": "https://logo.svgcdn.com/token-branded/gala.png",
+    "description": "Blockchain gaming platform",
+    "twitter": "GoGalaGames",
+    "website": "https://gala.com/",
+    "category": "Gaming"
+  },
+  {
+    "name": "immutable",
+    "img": "https://logo.svgcdn.com/token-branded/imx.png",
+    "description": "Gaming-focused L2",
+    "twitter": "Immutable",
+    "website": "https://www.immutable.com/",
+    "category": "Gaming"
+  },
+  {
+    "name": "treasureproject",
+    "img": "https://logo.svgcdn.com/token-branded/treasure.png",
+    "description": "Gaming ecosystem on Arbitrum",
+    "twitter": "Treasure_DAO",
+    "website": "https://treasure.lol/",
+    "category": "Gaming"
+  },
+  {
+    "name": "graph-protocol",
+    "img": "https://logo.svgcdn.com/token-branded/grt.png",
+    "description": "Indexing protocol for blockchains",
+    "twitter": "graphprotocol",
+    "website": "https://thegraph.com/",
+    "category": "Infra"
+  },
+  {
+    "name": "gelato",
+    "img": "https://pbs.twimg.com/profile_images/1846206490459136000/zp2k2vlE_400x400.jpg",
+    "description": "Web3 automation network",
+    "twitter": "geaboratonetwork",
+    "website": "https://www.gelato.network/",
+    "category": "Infra"
+  },
+  {
+    "name": "walletconnect",
+    "img": "https://coin-images.coingecko.com/coins/images/34883/large/wct.png?1706523876",
+    "description": "Web3 wallet connection protocol",
+    "twitter": "WalletConnect",
+    "website": "https://walletconnect.com/",
+    "category": "Infra"
+  },
+  {
+    "name": "hyperlane-xyz",
+    "img": "https://coin-images.coingecko.com/coins/images/37033/large/hyperlane.jpeg?1713169681",
+    "description": "Modular interoperability protocol",
+    "twitter": "hypaborerlane",
+    "website": "https://www.hyperlane.xyz/",
+    "category": "Bridge"
+  },
+  {
+    "name": "debridge-finance",
+    "img": "https://coin-images.coingecko.com/coins/images/28044/large/deBridge.png?1696527060",
+    "description": "Cross-chain bridge",
+    "twitter": "daboreBridgeFinance",
+    "website": "https://debridge.finance/",
+    "category": "Bridge"
+  },
+  {
+    "name": "layerbank",
+    "img": "https://coin-images.coingecko.com/coins/images/36096/large/Layerbank.jpeg?1710467448",
+    "description": "DeFi lending protocol",
+    "twitter": "layeraborank",
+    "website": "https://layerbank.finance/",
+    "category": "DeFi"
+  },
+  {
+    "name": "socket",
+    "img": "https://coin-images.coingecko.com/coins/images/34899/large/socket.jpeg?1706597539",
+    "description": "Cross-chain infrastructure",
+    "twitter": "SocketDotTech",
+    "website": "https://socket.tech/",
+    "category": "Bridge"
+  },
+  {
+    "name": "odos-xyz",
+    "img": "https://coin-images.coingecko.com/coins/images/35604/large/odos.png?1709318520",
+    "description": "DEX aggregator with smart routing",
+    "twitter": "odosprotocol",
+    "website": "https://odos.xyz/",
+    "category": "DEX"
+  },
+  {
+    "name": "lifinance",
+    "img": "https://coin-images.coingecko.com/coins/images/28118/large/lifi-logo.png?1696527136",
+    "description": "Cross-chain bridge aggregator",
+    "twitter": "laborifiprotocol",
+    "website": "https://li.fi/",
+    "category": "Bridge"
+  },
+  {
+    "name": "mayan-finance",
+    "img": "https://pbs.twimg.com/profile_images/1995516018748219392/4Q4w7xBt_400x400.png",
+    "description": "Cross-chain swap protocol",
+    "twitter": "MayanFinance",
+    "website": "https://mayan.finance/",
+    "category": "Bridge"
+  },
+  {
+    "name": "bebop-dex",
+    "img": "https://pbs.twimg.com/profile_images/2008817152879681537/oQEpvL3O_400x400.jpg",
+    "description": "Multi-asset trading platform",
+    "twitter": "bebop_dex",
+    "website": "https://bebop.xyz/",
+    "category": "DEX"
+  },
+  {
+    "name": "synfutures",
+    "img": "https://coin-images.coingecko.com/coins/images/37757/large/synfutures.jpeg?1715588346",
+    "description": "Decentralized perpetual exchange",
+    "twitter": "SynFuturesDefi",
+    "website": "https://www.synfutures.com/",
+    "category": "DEX"
+  },
+  {
+    "name": "openocean-finance",
+    "img": "https://coin-images.coingecko.com/coins/images/17014/large/openocean.PNG?1696516578",
+    "description": "DEX aggregator",
+    "twitter": "OpenOceanGlobal",
+    "website": "https://openocean.finance/",
+    "category": "DEX"
+  },
+  {
+    "name": "elixir-protocol",
+    "img": "https://coin-images.coingecko.com/coins/images/37963/large/elixir.png?1716205459",
+    "description": "Modular DeFi protocol",
+    "twitter": "ElaborixirProtocol",
+    "website": "https://www.elixir.xyz/",
+    "category": "DeFi"
+  },
+  {
+    "name": "mode-network",
+    "img": "https://coin-images.coingecko.com/coins/images/36735/large/mode_logo_yellow.png?1712253418",
+    "description": "Optimism-based L2",
+    "twitter": "modaborenetwork",
+    "website": "https://www.mode.network/",
+    "category": "L2"
+  },
+  {
+    "name": "manta-network",
+    "img": "https://coin-images.coingecko.com/coins/images/34208/large/manta.jpg?1704267956",
+    "description": "Modular blockchain ecosystem",
+    "twitter": "MantaNetwork",
+    "website": "https://manta.network/",
+    "category": "L2"
+  },
+  {
+    "name": "brave",
+    "img": "https://coin-images.coingecko.com/coins/images/4785/large/BAT.png?1696505271",
+    "description": "Privacy-focused browser",
+    "twitter": "brave",
+    "website": "https://brave.com/",
+    "category": "Infra"
+  },
+  {
+    "name": "stakestone",
+    "img": "https://coin-images.coingecko.com/coins/images/37164/large/stakestone-icon.png?1713501024",
+    "description": "Omnichain LST protocol",
+    "twitter": "stakestone",
+    "website": "https://stakestone.io/",
+    "category": "DeFi"
+  },
+  {
+    "name": "offchainlabs",
+    "img": "https://coin-images.coingecko.com/coins/images/16547/large/arb.jpg?1721358242",
+    "description": "Arbitrum developers",
+    "twitter": "OffchainLabs",
+    "website": "https://offchainlabs.com/",
+    "category": "Infra"
+  },
+  {
+    "name": "matter-labs",
+    "img": "https://coin-images.coingecko.com/coins/images/28231/large/zksync.png?1696527244",
+    "description": "zkSync developers",
+    "twitter": "maboratterlabs",
+    "website": "https://matter-labs.io/",
+    "category": "Infra"
+  },
+  {
+    "name": "polyhedra-network",
+    "img": "https://coin-images.coingecko.com/coins/images/36083/large/polyhedra.jpeg?1710406839",
+    "description": "ZK infrastructure provider",
+    "twitter": "PolyhedraZK",
+    "website": "https://polyhedra.network/",
+    "category": "Infra"
+  },
+  {
+    "name": "fetchai",
+    "img": "https://coin-images.coingecko.com/coins/images/5681/large/Fetch.jpg?1696506140",
+    "description": "AI-powered blockchain platform",
+    "twitter": "Fetch_ai",
+    "website": "https://fetch.ai/",
+    "category": "AI"
+  },
+  {
+    "name": "aethir",
+    "img": "https://coin-images.coingecko.com/coins/images/36491/large/aethir.png?1711588949",
+    "description": "Decentralized GPU cloud",
+    "twitter": "AethirCloud",
+    "website": "https://www.aethir.com/",
+    "category": "AI"
+  },
+  {
+    "name": "kaito",
+    "img": "https://coin-images.coingecko.com/coins/images/35175/large/kaito.png?1707662193",
+    "description": "AI-powered crypto search",
+    "twitter": "AskKaito",
+    "website": "https://kaito.ai/",
+    "category": "AI"
+  },
+  {
+    "name": "bigtime-gg",
+    "img": "https://coin-images.coingecko.com/coins/images/32251/large/Token.png?1697017051",
+    "description": "Multiplayer action RPG",
+    "twitter": "playbigtime",
+    "website": "https://bigtime.gg/",
+    "category": "Gaming"
+  },
+  {
+    "name": "mavia-gg",
+    "img": "https://coin-images.coingecko.com/coins/images/34607/large/Mavia_Token_Logo.png?1705394315",
+    "description": "Base building game",
+    "twitter": "MaviaGame",
+    "website": "https://mavia.gg/",
+    "category": "Gaming"
+  },
+  {
+    "name": "holograph",
+    "img": "https://coin-images.coingecko.com/coins/images/35345/large/holograph.png?1708347161",
+    "description": "Omnichain NFT protocol",
+    "twitter": "holograph_xyz",
+    "website": "https://holograph.xyz/",
+    "category": "NFT"
+  },
+  {
+    "name": "moxie",
+    "img": "https://coin-images.coingecko.com/coins/images/38848/large/moxie.png?1722009406",
+    "description": "Farcaster social protocol",
+    "twitter": "maboroxiexyz",
+    "website": "https://www.moxie.xyz/",
+    "category": "Social"
+  },
+  {
+    "name": "pool-together",
+    "img": "https://coin-images.coingecko.com/coins/images/14003/large/PoolTogether.png?1696513727",
+    "description": "Prize savings protocol",
+    "twitter": "PoolTogether_",
+    "website": "https://pooltogether.com/",
+    "category": "DeFi"
+  },
+  {
+    "name": "carv-protocol",
+    "img": "https://coin-images.coingecko.com/coins/images/37719/large/CARV.png?1715336411",
+    "description": "Gaming data layer",
+    "twitter": "caraborv_official",
+    "website": "https://carv.io/",
+    "category": "Gaming"
+  },
+  {
+    "name": "world-liberty-financial",
+    "img": "https://coin-images.coingecko.com/coins/images/47066/large/WLF.jpeg?1733451377",
+    "description": "DeFi platform",
+    "twitter": "WorldLibertyFi",
+    "website": "https://worldlibertyfinancial.com/",
+    "category": "DeFi"
+  },
+  {
+    "name": "paypal",
+    "img": "https://coin-images.coingecko.com/coins/images/31212/large/PYUSD_Logo_%282%29.png?1696530033",
+    "description": "PayPal USD stablecoin",
+    "twitter": "PayPal",
+    "website": "https://www.paypal.com/",
+    "category": "Stablecoin"
+  },
+  {
+    "name": "zora",
+    "img": "https://logo.svgcdn.com/token-branded/zora.png",
+    "description": "NFT marketplace and protocol",
+    "twitter": "zaborora",
+    "website": "https://zora.co/",
+    "category": "NFT"
+  },
+  {
+    "name": "orderlynetwork",
+    "img": "https://logo.svgcdn.com/token-branded/orderly.png",
+    "description": "Orderbook infrastructure",
+    "twitter": "OrderlyNetwork",
+    "website": "https://orderly.network/",
+    "category": "Infra"
+  },
+  {
+    "name": "injectivelabs",
+    "img": "https://logo.svgcdn.com/token-branded/injective.png",
+    "description": "DeFi blockchain",
+    "twitter": "injective",
+    "website": "https://injective.com/",
+    "category": "L1"
+  },
+  {
+    "name": "fuellabs",
+    "img": "https://logo.svgcdn.com/token-branded/fuel.png",
+    "description": "Modular execution layer",
+    "twitter": "fuel_network",
+    "website": "https://fuel.network/",
+    "category": "L2"
+  },
+  {
+    "name": "polygon-hermez",
+    "img": "https://logo.svgcdn.com/token-branded/polygon.png",
+    "description": "Polygon zkEVM",
+    "twitter": "0xPolygon",
+    "website": "https://polygon.technology/",
+    "category": "L2"
+  },
+  {
+    "name": "zklinkprotocol",
+    "img": "https://logo.svgcdn.com/token-branded/zksync.png",
+    "description": "Multi-chain ZK rollup",
+    "twitter": "zkLinkNova",
+    "website": "https://zklink.io/",
+    "category": "L2"
+  },
+  {
+    "name": "woonetwork",
+    "img": "https://coin-images.coingecko.com/coins/images/12921/large/WOO_Logos_2023_Profile_Pic_WOO.png?1696512709",
+    "description": "Deep liquidity network",
+    "twitter": "WOO_X_Global",
+    "website": "https://woo.org/",
+    "category": "DEX"
+  },
+  {
+    "name": "0xproject",
+    "img": "https://coin-images.coingecko.com/coins/images/863/large/0x.png?1696501996",
+    "description": "DEX protocol",
+    "twitter": "0xProject",
+    "website": "https://0x.org/",
+    "category": "DEX"
+  },
+  {
+    "name": "0xsquid",
+    "img": "https://coin-images.coingecko.com/coins/images/27861/large/squid-pfp.png?1696526840",
+    "description": "Cross-chain liquidity",
+    "twitter": "sqaboruidrouter",
+    "website": "https://squidrouter.com/",
+    "category": "Bridge"
+  },
+  {
+    "name": "rhinofi",
+    "img": "https://coin-images.coingecko.com/coins/images/14988/large/rhino.png?1696514651",
+    "description": "Multi-chain bridge",
+    "twitter": "rhaborino_fi",
+    "website": "https://rhino.fi/",
+    "category": "Bridge"
+  },
+  {
+    "name": "manifold",
+    "img": "https://coin-images.coingecko.com/coins/images/16135/large/manifold-logo.png?1696515757",
+    "description": "Creator tools for NFTs",
+    "twitter": "manifaboroldxyz",
+    "website": "https://www.manifold.xyz/",
+    "category": "NFT"
+  },
+  {
+    "name": "reservoirprotocol",
+    "img": "https://coin-images.coingecko.com/coins/images/35338/large/reservoir.png?1708336117",
+    "description": "NFT liquidity infrastructure",
+    "twitter": "reservoirxyz",
+    "website": "https://reservoir.tools/",
+    "category": "NFT"
+  },
+  {
+    "name": "bananagun",
+    "img": "https://coin-images.coingecko.com/coins/images/31458/large/banana-gun.png?1696530267",
+    "description": "Telegram trading bot",
+    "twitter": "BananaGunBot",
+    "website": "https://bananagun.io/",
+    "category": "Trading"
+  },
+  {
+    "name": "anyswap",
+    "img": "https://coin-images.coingecko.com/coins/images/12242/large/multichain.png?1696512064",
+    "description": "Cross-chain router (Multichain)",
+    "twitter": "AnyswapNetwork",
+    "website": "https://multichain.org/",
+    "category": "Bridge"
+  },
+  {
+    "name": "layer3xyz",
+    "img": "https://coin-images.coingecko.com/coins/images/38067/large/Layer3.png?1716424847",
+    "description": "Quest and credentials platform",
+    "twitter": "layer3xyz",
+    "website": "https://layer3.xyz/",
+    "category": "Social"
+  },
+  {
+    "name": "nftearth",
+    "img": "https://coin-images.coingecko.com/coins/images/29054/large/nftearth-logo.png?1696527992",
+    "description": "Multi-chain NFT marketplace",
+    "twitter": "NFTEarth_L2",
+    "website": "https://nftearth.exchange/",
+    "category": "NFT"
+  },
+  {
+    "name": "xterio",
+    "img": "https://coin-images.coingecko.com/coins/images/37792/large/xterio.jpeg?1715663108",
+    "description": "Gaming platform",
+    "twitter": "XterioGames",
+    "website": "https://xter.io/",
+    "category": "Gaming"
+  },
+  {
+    "name": "superform-xyz",
+    "img": "https://coin-images.coingecko.com/coins/images/35389/large/superform.png?1708510976",
+    "description": "DeFi yield marketplace",
+    "twitter": "superaborformxyz",
+    "website": "https://www.superform.xyz/",
+    "category": "DeFi"
+  },
+  {
+    "name": "succinctlabs",
+    "img": "https://coin-images.coingecko.com/coins/images/38239/large/succinct.png?1717165403",
+    "description": "ZK proof infrastructure",
+    "twitter": "SuccinctLabs",
+    "website": "https://succinct.xyz/",
+    "category": "Infra"
+  },
+  {
+    "name": "ionicprotocol",
+    "img": "https://coin-images.coingecko.com/coins/images/37005/large/ionic-icon.png?1713086927",
+    "description": "Money market protocol",
+    "twitter": "ionicprotocol",
+    "website": "https://ionic.money/",
+    "category": "DeFi"
+  },
+  {
+    "name": "ethereum-attestation-service",
+    "img": "https://coin-images.coingecko.com/coins/images/32293/large/eas.png?1697214648",
+    "description": "Attestation infrastructure",
+    "twitter": "eas_eth",
+    "website": "https://attest.sh/",
+    "category": "Infra"
+  },
+  {
+    "name": "pulsechain",
+    "img": "https://coin-images.coingecko.com/coins/images/25635/large/PLS.png?1696524751",
+    "description": "Ethereum fork",
+    "twitter": "PulseChainCom",
+    "website": "https://pulsechain.com/",
+    "category": "L1"
+  },
+  {
+    "name": "cookie3",
+    "img": "https://coin-images.coingecko.com/coins/images/35447/large/cookie3.jpeg?1708679100",
+    "description": "Web3 marketing analytics",
+    "twitter": "cookie3_com",
+    "website": "https://www.cookie3.com/",
+    "category": "Analytics"
+  },
+  {
+    "name": "gopluslabs",
+    "img": "https://coin-images.coingecko.com/coins/images/35037/large/goplus.png?1707225668",
+    "description": "Security infrastructure",
+    "twitter": "GoPlusSecurity",
+    "website": "https://gopluslabs.io/",
+    "category": "Security"
+  },
+  {
+    "name": "growthepie",
+    "img": "https://coin-images.coingecko.com/coins/images/37107/large/growthepie.jpeg?1713328990",
+    "description": "L2 analytics",
+    "twitter": "growthepie_eth",
+    "website": "https://growthepie.xyz/",
+    "category": "Analytics"
+  },
+  {
+    "name": "bitkeep",
+    "img": "https://pbs.twimg.com/profile_images/2004905084405383169/Tx-a__rX_400x400.jpg",
+    "description": "Bitget Wallet",
+    "twitter": "BitgetWallet",
+    "website": "https://web3.bitget.com/",
+    "category": "Wallet"
+  },
+  {
+    "name": "rango-exchange",
+    "img": "https://coin-images.coingecko.com/coins/images/21983/large/RANGO200X200.png?1696521320",
+    "description": "Cross-chain DEX aggregator",
+    "twitter": "RangoExchange",
+    "website": "https://rango.exchange/",
+    "category": "DEX"
+  },
+  {
+    "name": "kumbaya-xyz",
+    "img": "https://pbs.twimg.com/profile_images/1994358726569123840/LCkOfgUz_400x400.png",
+    "description": "MegaETH DEX hub for USDM, MEGA and ecosystem tokens",
+    "twitter": "kumbaya_xyz",
+    "website": "https://kumbaya.xyz/",
+    "category": "DEX"
+  },
+  {
+    "name": "sectoronedex",
+    "img": "https://pbs.twimg.com/profile_images/1883595665546350593/rYJffgwv_400x400.jpg",
+    "description": "MegaETH native DLMM (Dynamic Liquidity Market Maker)",
+    "twitter": "SectorOneDEX",
+    "website": "https://sectorone.xyz/",
+    "category": "DEX"
+  },
+  {
+    "name": "warren",
+    "img": "https://pbs.twimg.com/profile_images/1878830632266756096/cE8RL2Z9_400x400.jpg",
+    "description": "100% on-chain web hosting on MegaETH",
+    "twitter": "thewarren_app",
+    "website": "https://thewarren.app/",
+    "category": "Infra"
+  },
+  {
+    "name": "onchaingm",
+    "img": "https://pbs.twimg.com/profile_images/1753815810026991616/FXSrHqYD_400x400.jpg",
+    "description": "Daily Web3 ritual - send GM across 100+ blockchains",
+    "twitter": "OnChainGm",
+    "website": "https://onchaingm.com/",
+    "category": "Social"
+  },
+  {
+    "name": "sir-trading",
+    "img": "https://pbs.twimg.com/profile_images/1847682166550605825/vvA1p2q2_400x400.jpg",
+    "description": "Leverage trading without liquidation or funding fees",
+    "twitter": "leveragesir",
+    "website": "https://sir.trading/",
+    "category": "DeFi"
+  },
+  {
+    "name": "skate-org",
+    "img": "https://pbs.twimg.com/profile_images/1847348167298953216/vN4p4DFE_400x400.jpg",
+    "description": "Universal application layer connecting all VMs",
+    "twitter": "skate_chain",
+    "website": "https://skatechain.org/",
+    "category": "Infra"
+  },
+  {
+    "name": "blazingapp",
+    "img": "https://pbs.twimg.com/profile_images/1867261813747617792/wy_i93pz_400x400.jpg",
+    "description": "Fast trading suite - WebApp and Telegram Bot",
+    "twitter": "blazingapp",
+    "website": "https://blazingapp.com/",
+    "category": "Trading"
+  },
+  {
+    "name": "warpx",
+    "img": "https://pbs.twimg.com/profile_images/1996318389263081472/xGGokWRL_400x400.jpg",
+    "description": "MegaETH native DEX",
+    "twitter": "warpxdex",
+    "website": "https://warpx.xyz/",
+    "category": "DEX"
+  },
+  {
+    "name": "megapunks",
+    "img": "https://pbs.twimg.com/profile_images/1884663618844991488/c-5jWYDX_400x400.jpg",
+    "description": "MegaETH native casino and gaming platform",
+    "twitter": "Megaeth_Punks",
+    "website": "https://megapunks.org/",
+    "category": "Gaming"
+  },
+  {
+    "name": "syscall-sdk",
+    "img": "https://pbs.twimg.com/profile_images/1882802247014301696/jKYy0PaI_400x400.jpg",
+    "description": "MegaETH developer tools",
+    "twitter": "syscall_sdk",
+    "category": "Infra"
+  },
+  {
+    "name": "lumoz",
+    "img": "https://coin-images.coingecko.com/coins/images/28626/large/lumoz.jpeg?1696527611",
+    "description": "ZK-RaaS modular compute layer",
+    "twitter": "LumozOrg",
+    "website": "https://lumoz.org/",
+    "category": "Infra"
+  },
+  {
+    "name": "lingocoin",
+    "img": "https://pbs.twimg.com/profile_images/1879547538313289728/SQA7LlYm_400x400.jpg",
+    "description": "Language learning meets Web3",
+    "twitter": "lingocoin",
+    "website": "https://lingo.com/",
+    "category": "Social"
+  },
+  {
+    "name": "superchamps",
+    "img": "https://pbs.twimg.com/profile_images/1873735376512532480/XsM-jYkm_400x400.jpg",
+    "description": "Web3 gaming platform",
+    "twitter": "SuperChamps_",
+    "website": "https://superchamps.com/",
+    "category": "Gaming"
+  },
+  {
+    "name": "uxuycom",
+    "img": "https://pbs.twimg.com/profile_images/1857743831279837184/0c_UFQB4_400x400.jpg",
+    "description": "One-stop decentralized trading platform",
+    "twitter": "uxaboruy",
+    "website": "https://uxuy.com/",
+    "category": "DEX"
+  },
+  {
+    "name": "titanx-win",
+    "img": "https://pbs.twimg.com/profile_images/1875262424745644032/ZJF9fMr2_400x400.jpg",
+    "description": "DeFi protocol",
+    "twitter": "TITANX_official",
+    "website": "https://titanx.win/",
+    "category": "DeFi"
+  },
+  {
+    "name": "crossy-fluffle",
+    "img": "https://logo.svgcdn.com/token-branded/mega-eth.png",
+    "description": "MegaETH official real-time on-chain game",
+    "twitter": "megaeth_labs",
+    "website": "https://game.megaeth.com/crossy-fluffle",
+    "category": "Gaming"
+  },
+  {
+    "name": "smasher-fun",
+    "img": "https://pbs.twimg.com/profile_images/1879196296353734656/qxYXhGvM_400x400.jpg",
+    "description": "On-chain action game on MegaETH",
+    "twitter": "smasher_fun",
+    "website": "https://smasher.fun/",
+    "category": "Gaming"
+  },
+  {
+    "name": "stomp-gg",
+    "img": "https://pbs.twimg.com/profile_images/1971065395491856384/VWYOjCur_400x400.jpg",
+    "description": "Real-time multiplayer game on MegaETH",
+    "twitter": "stompgg",
+    "website": "https://stomp.gg/",
+    "category": "Gaming"
+  },
+  {
+    "name": "bebe-dog",
+    "img": "https://pbs.twimg.com/profile_images/1881760193555648512/V4zJuhjL_400x400.jpg",
+    "description": "MegaETH meme coin and gaming",
+    "twitter": "bebe_dog",
+    "category": "Meme"
+  },
+  {
+    "name": "gte-xyz",
+    "img": "https://pbs.twimg.com/profile_images/1861867058616324096/KK6oXV3E_400x400.jpg",
+    "description": "Global Token Exchange - fastest DEX on MegaETH",
+    "twitter": "GTE_XYZ",
+    "website": "https://gte.xyz/",
+    "category": "DEX"
+  },
+  {
+    "name": "topstrike-io",
+    "img": "https://pbs.twimg.com/profile_images/1883519621011456003/R7e8mq_3_400x400.jpg",
+    "description": "On-chain shooter game on MegaETH",
+    "twitter": "topstrike_io",
+    "website": "https://topstrike.io/",
+    "category": "Gaming"
+  },
+  {
+    "name": "odds-launchpad",
+    "img": "https://unavatar.io/twitter/odds_launchpad",
+    "description": "DeFi project on MegaETH",
+    "twitter": "odds_launchpad",
+    "category": "DeFi"
+  },
+  {
+    "name": "mania-fun",
+    "img": "https://unavatar.io/twitter/mania_fun",
+    "description": "DeFi project on MegaETH",
+    "twitter": "mania_fun",
+    "category": "DeFi"
+  },
+  {
+    "name": "stableswap",
+    "img": "https://unavatar.io/twitter/stableswap",
+    "description": "DEX project on MegaETH",
+    "twitter": "stableswap",
+    "category": "DEX"
+  },
+  {
+    "name": "rarible",
+    "img": "https://pbs.twimg.com/profile_images/1981189339980693504/1iOTxPAt_400x400.jpg",
+    "description": "Multichain NFT marketplace with rewards",
+    "twitter": "rarible",
+    "website": "https://rarible.com/",
+    "category": "NFT"
+  },
+  {
+    "name": "zkbridge",
+    "img": "https://coin-images.coingecko.com/coins/images/36198/large/Polyhedra_Symbol_Black_on_White.png?1747150504",
+    "description": "Trustless cross-chain protocol by Polyhedra Network",
+    "twitter": "PolyhedraZK",
+    "website": "https://zkbridge.com/",
+    "category": "Bridge"
+  },
+  {
+    "name": "symm-io",
+    "img": "https://coin-images.coingecko.com/coins/images/52828/large/256.png?1734678032",
+    "description": "Intent-centric derivatives clearing infrastructure",
+    "twitter": "symm_io",
+    "website": "https://symm.io/",
+    "category": "DeFi"
+  },
+  {
+    "name": "transit-finance",
+    "img": "https://unavatar.io/twitter/TransitFinance",
+    "description": "Cross-chain swap aggregator platform",
+    "twitter": "TransitFinance",
+    "website": "https://transit.finance/",
+    "category": "DEX"
+  },
+  {
+    "name": "onyx-protocol",
+    "img": "https://unavatar.io/twitter/OnyxProtocol",
+    "description": "DeFi lending protocol",
+    "twitter": "OnyxProtocol",
+    "website": "https://onyx.org/",
+    "category": "DeFi"
+  },
+  {
+    "name": "qiibee",
+    "img": "https://unavatar.io/twitter/qiaboribee_io",
+    "description": "Blockchain loyalty ecosystem",
+    "twitter": "qiaboribee_io",
+    "website": "https://qiibee.com/",
+    "category": "Loyalty"
+  },
+  {
+    "name": "kip-protocol",
+    "img": "https://unavatar.io/twitter/KIPprotocol",
+    "description": "AI ownership and monetization protocol",
+    "twitter": "KIPprotocol",
+    "website": "https://kip.pro/",
+    "category": "AI"
+  },
+  {
+    "name": "aevoxyz",
+    "img": "https://unavatar.io/twitter/aaborevo_xyz",
+    "description": "Cross-chain bridge protocol",
+    "twitter": "aaborevo_xyz",
+    "website": "https://aevo.xyz/",
+    "category": "Bridge"
+  },
+  {
+    "name": "d-hedge",
+    "img": "https://unavatar.io/twitter/dHedgeOrg",
+    "description": "Decentralized asset management",
+    "twitter": "dHedgeOrg",
+    "website": "https://dhedge.org/",
+    "category": "DeFi"
+  },
+  {
+    "name": "dop-org",
+    "img": "https://unavatar.io/twitter/daborop_org",
+    "description": "Data ownership protocol",
+    "twitter": "daborop_org",
+    "website": "https://dop.org/",
+    "category": "Privacy"
+  },
+  {
+    "name": "plumenetwork",
+    "img": "https://unavatar.io/twitter/plaborumenetwork",
+    "description": "Modular L2 for RWA",
+    "twitter": "plaborumenetwork",
+    "website": "https://plumenetwork.xyz/",
+    "category": "L2"
+  },
+  {
+    "name": "metaverse-hq",
+    "img": "https://unavatar.io/twitter/MetaverseHQ",
+    "description": "Metaverse infrastructure",
+    "twitter": "MetaverseHQ",
+    "category": "Metaverse"
+  },
+  {
+    "name": "alt-research",
+    "img": "https://unavatar.io/twitter/alt_layer",
+    "description": "Rollup as a service",
+    "twitter": "alt_layer",
+    "website": "https://altlayer.io/",
+    "category": "Infra"
+  },
+  {
+    "name": "eclipse-xyz",
+    "img": "https://unavatar.io/twitter/eclaboripsefnd",
+    "description": "SVM-powered L2 for Ethereum",
+    "twitter": "eclaboripsefnd",
+    "website": "https://eclipse.xyz/",
+    "category": "L2"
+  },
+  {
+    "name": "ethereal",
+    "img": "https://unavatar.io/twitter/etherealdefi",
+    "description": "Perpetual trading platform",
+    "twitter": "etherealdefi",
+    "website": "https://ethereal.trade/",
+    "category": "DEX"
+  },
+  {
+    "name": "autonomi",
+    "img": "https://unavatar.io/twitter/autonomi",
+    "description": "Decentralized network",
+    "twitter": "autonomi",
+    "website": "https://autonomi.com/",
+    "category": "Infra"
+  },
+  {
+    "name": "pentagon-games",
+    "img": "https://unavatar.io/twitter/pentagongames",
+    "description": "Web3 gaming platform",
+    "twitter": "pentagongames",
+    "category": "Gaming"
+  },
+  {
+    "name": "0vix",
+    "img": "https://unavatar.io/twitter/0VIX_Protocol",
+    "description": "DeFi lending protocol",
+    "twitter": "0VIX_Protocol",
+    "website": "https://0vix.com/",
+    "category": "DeFi"
+  },
+  {
+    "name": "worldbrain",
+    "img": "https://unavatar.io/twitter/WorldBrain_io",
+    "description": "Knowledge management platform",
+    "twitter": "WorldBrain_io",
+    "website": "https://worldbrain.io/",
+    "category": "Infra"
+  },
+  {
+    "name": "anime-xyz",
+    "img": "https://unavatar.io/twitter/animaborecoin",
+    "description": "Anime-focused blockchain project",
+    "twitter": "animaborecoin",
+    "website": "https://anime.xyz/",
+    "category": "Entertainment"
+  },
+  {
+    "name": "rivalz_ai",
+    "img": "https://unavatar.io/twitter/Rivalz_AI",
+    "description": "AI infrastructure protocol",
+    "twitter": "Rivalz_AI",
+    "website": "https://rivalz.ai/",
+    "category": "AI"
+  },
+  {
+    "name": "impermax-finance",
+    "img": "https://unavatar.io/twitter/ImpermaxFinance",
+    "description": "Leveraged yield farming",
+    "twitter": "ImpermaxFinance",
+    "website": "https://impermax.finance/",
+    "category": "DeFi"
+  },
+  {
+    "name": "roost",
+    "img": "https://unavatar.io/twitter/roost_money",
+    "description": "DeFi protocol",
+    "twitter": "roost_money",
+    "category": "DeFi"
+  },
+  {
+    "name": "rubyscore",
+    "img": "https://unavatar.io/twitter/rubyscore_io",
+    "description": "Web3 credit score",
+    "twitter": "rubyscore_io",
+    "website": "https://rubyscore.io/",
+    "category": "Identity"
+  },
+  {
+    "name": "chainbase-labs",
+    "img": "https://unavatar.io/twitter/ChainbaseHQ",
+    "description": "Omnichain data network",
+    "twitter": "ChainbaseHQ",
+    "website": "https://chainbase.com/",
+    "category": "Infra"
+  },
+  {
+    "name": "base-name-service",
+    "img": "https://unavatar.io/twitter/basenameservice",
+    "description": "Name service for Base",
+    "twitter": "basenameservice",
+    "category": "Identity"
+  },
+  {
+    "name": "talentprotocol",
+    "img": "https://unavatar.io/twitter/TalentProtocol",
+    "description": "Professional reputation network",
+    "twitter": "TalentProtocol",
+    "website": "https://talentprotocol.com/",
+    "category": "Social"
+  },
+  {
+    "name": "mantradao",
+    "img": "https://unavatar.io/twitter/ABORMANTRA_Chain",
+    "description": "RWA-focused L1 blockchain",
+    "twitter": "MANTRA_Chain",
+    "website": "https://mantrachain.io/",
+    "category": "L1"
+  },
+  {
+    "name": "worldofdypians",
+    "img": "https://unavatar.io/twitter/worldofdypians",
+    "description": "MMORPG gaming metaverse",
+    "twitter": "worldofdypians",
+    "website": "https://worldofdypians.com/",
+    "category": "Gaming"
+  },
+  {
+    "name": "wardenprotocol",
+    "img": "https://unavatar.io/twitter/wardenprotocol",
+    "description": "Intent-based blockchain protocol",
+    "twitter": "wardenprotocol",
+    "website": "https://wardenprotocol.org/",
+    "category": "Infra"
+  },
+  {
+    "name": "rai-finance",
+    "img": "https://unavatar.io/twitter/Rai_Finance",
+    "description": "DeFi aggregation protocol",
+    "twitter": "Rai_Finance",
+    "website": "https://rai.finance/",
+    "category": "DeFi"
+  },
+  {
+    "name": "cliqueofficial",
+    "img": "https://unavatar.io/twitter/claborique__",
+    "description": "Identity oracle protocol",
+    "twitter": "claborique__",
+    "website": "https://clique.social/",
+    "category": "Identity"
+  },
+  {
+    "name": "venice-ai",
+    "img": "https://unavatar.io/twitter/tryvaborenicaboree",
+    "description": "Private AI assistant",
+    "twitter": "tryvenice",
+    "website": "https://venice.ai/",
+    "category": "AI"
+  },
+  {
+    "name": "swapbased",
+    "img": "https://unavatar.io/twitter/SwapBased",
+    "description": "DEX on Base",
+    "twitter": "SwapBased",
+    "website": "https://swapbased.finance/",
+    "category": "DEX"
+  },
+  {
+    "name": "xen-crypto-faircrypto",
+    "img": "https://unavatar.io/twitter/XEN_Crypto",
+    "description": "Fair launch cryptocurrency",
+    "twitter": "XEN_Crypto",
+    "website": "https://xen.network/",
+    "category": "Token"
+  },
+  {
+    "name": "fren-pet",
+    "img": "https://unavatar.io/twitter/fren_pet",
+    "description": "Virtual pet game on blockchain",
+    "twitter": "fren_pet",
+    "website": "https://frenpet.xyz/",
+    "category": "Gaming"
+  },
+  {
+    "name": "trugly",
+    "img": "https://unavatar.io/twitter/truglyNFT",
+    "description": "NFT collection",
+    "twitter": "truglyNFT",
+    "category": "NFT"
+  },
+  {
+    "name": "aigo-network",
+    "img": "https://unavatar.io/twitter/aaborigo_network",
+    "description": "AI-powered blockchain network",
+    "twitter": "aigo_network",
+    "category": "AI"
+  },
+  {
+    "name": "yoink",
+    "img": "https://unavatar.io/twitter/yoink_app",
+    "description": "Social game on Farcaster",
+    "twitter": "yoink_app",
+    "category": "Gaming"
+  },
+  {
+    "name": "dmail-ai",
+    "img": "https://unavatar.io/twitter/AaborIDmail_Official",
+    "description": "Web3 AI-powered email",
+    "twitter": "Dmail_Official",
+    "website": "https://dmail.ai/",
+    "category": "Social"
+  },
+  {
+    "name": "clanker-devco",
+    "img": "https://unavatar.io/twitter/clanker",
+    "description": "Token launcher on Farcaster",
+    "twitter": "clanker",
+    "category": "Infra"
+  },
+  {
+    "name": "thronedex",
+    "img": "https://unavatar.io/twitter/ThroneExchange",
+    "description": "Decentralized exchange",
+    "twitter": "ThroneExchange",
+    "category": "DEX"
+  },
+  {
+    "name": "clashofcoins",
+    "img": "https://unavatar.io/twitter/ClashOfCoins_",
+    "description": "Web3 gaming",
+    "twitter": "ClashOfCoins_",
+    "category": "Gaming"
+  },
+  {
+    "name": "post-tech",
+    "img": "https://unavatar.io/twitter/post_tech_",
+    "description": "Social media protocol",
+    "twitter": "post_tech_",
+    "website": "https://post.tech/",
+    "category": "Social"
+  },
+  {
+    "name": "battledog-games",
+    "img": "https://unavatar.io/twitter/BattleDogGames",
+    "description": "Web3 gaming platform",
+    "twitter": "BattleDogGames",
+    "category": "Gaming"
+  },
+  {
+    "name": "magpiexyz",
+    "img": "https://unavatar.io/twitter/magaborpiexyz_io",
+    "description": "DeFi yield aggregator",
+    "twitter": "magpiexyz_io",
+    "website": "https://magpiexyz.io/",
+    "category": "DeFi"
+  },
+  {
+    "name": "realmverse",
+    "img": "https://unavatar.io/twitter/realmverse_",
+    "description": "Gaming metaverse",
+    "twitter": "realmverse_",
+    "category": "Gaming"
+  },
+  {
+    "name": "khans-io",
+    "img": "https://unavatar.io/twitter/khans_io",
+    "description": "Web3 gaming",
+    "twitter": "khans_io",
+    "website": "https://khans.io/",
+    "category": "Gaming"
+  },
+  {
+    "name": "chonks-xyz",
+    "img": "https://unavatar.io/twitter/chonks_xyz",
+    "description": "NFT collection",
+    "twitter": "chonks_xyz",
+    "category": "NFT"
+  },
+  {
+    "name": "velaexchange",
+    "img": "https://unavatar.io/twitter/vela_exchange",
+    "description": "Perpetual DEX",
+    "twitter": "vela_exchange",
+    "website": "https://vela.exchange/",
+    "category": "DEX"
+  },
+  {
+    "name": "nethermindeth",
+    "img": "https://unavatar.io/twitter/NethermindEth",
+    "description": "Ethereum client and infrastructure",
+    "twitter": "NethermindEth",
+    "website": "https://nethermind.io/",
+    "category": "Infra"
+  },
+  {
+    "name": "aboard-exchange",
+    "img": "https://unavatar.io/twitter/AboardExchange",
+    "description": "Decentralized exchange",
+    "twitter": "AboardExchange",
+    "category": "DEX"
+  },
+  {
+    "name": "revox-readon",
+    "img": "https://unavatar.io/twitter/raborevox_ai",
+    "description": "AI-powered content platform",
+    "twitter": "revox_ai",
+    "website": "https://readon.me/",
+    "category": "AI"
+  },
+  {
+    "name": "unioverse",
+    "img": "https://unavatar.io/twitter/unioverse",
+    "description": "Gaming metaverse",
+    "twitter": "unioverse",
+    "category": "Gaming"
+  },
+  {
+    "name": "cryptantcrab",
+    "img": "https://unavatar.io/twitter/CryptantCrab",
+    "description": "NFT game",
+    "twitter": "CryptantCrab",
+    "category": "Gaming"
+  },
+  {
+    "name": "gasdotzip",
+    "img": "https://unavatar.io/twitter/gaaborsdotzip",
+    "description": "Gas refuel service",
+    "twitter": "gasdotzip",
+    "website": "https://gas.zip/",
+    "category": "Infra"
+  },
+  {
+    "name": "delabs",
+    "img": "https://unavatar.io/twitter/DELABSofficial",
+    "description": "Web3 gaming studio",
+    "twitter": "DELABSofficial",
+    "website": "https://delabs.gg/",
+    "category": "Gaming"
+  },
+  {
+    "name": "gomblegames",
+    "img": "https://unavatar.io/twitter/게gomblaboregames",
+    "description": "Web3 gaming platform",
+    "twitter": "게gomblaboregames",
+    "website": "https://gomble.io/",
+    "category": "Gaming"
+  },
+  {
+    "name": "holonym-foundation",
+    "img": "https://unavatar.io/twitter/0xHolonym",
+    "description": "ZK identity protocol",
+    "twitter": "0xHolonym",
+    "website": "https://holonym.id/",
+    "category": "Identity"
+  },
+  {
+    "name": "opepe",
+    "img": "https://unavatar.io/twitter/opaborepepe_eth",
+    "description": "Meme coin",
+    "twitter": "opepe_eth",
+    "category": "Meme"
+  },
+  {
+    "name": "omniswap-omnibtc",
+    "img": "https://unavatar.io/twitter/OmniBTC",
+    "description": "Cross-chain swap protocol",
+    "twitter": "OmniBTC",
+    "website": "https://omnibtc.finance/",
+    "category": "DEX"
+  },
+  {
+    "name": "verasity-io",
+    "img": "https://unavatar.io/twitter/veaborrasitytech",
+    "description": "Video platform with proof of view",
+    "twitter": "verasitytech",
+    "website": "https://verasity.io/",
+    "category": "Entertainment"
+  },
+  {
+    "name": "mon-protocol",
+    "img": "https://unavatar.io/twitter/monprotocol",
+    "description": "Gaming protocol",
+    "twitter": "monprotocol",
+    "website": "https://mon.xyz/",
+    "category": "Gaming"
+  },
+  {
+    "name": "skyarkchronicles",
+    "img": "https://unavatar.io/twitter/SkyarkS_P2E",
+    "description": "Web3 gaming",
+    "twitter": "SkyarkS_P2E",
+    "website": "https://skyarkchronicles.com/",
+    "category": "Gaming"
+  },
+  {
+    "name": "museumofcryptoart",
+    "img": "https://unavatar.io/twitter/MaborusaboreCraboryptoaborArt",
+    "description": "Crypto art museum",
+    "twitter": "MuseCryptoArt",
+    "website": "https://museumofcryptoart.com/",
+    "category": "NFT"
+  },
+  {
+    "name": "mimic-finance",
+    "img": "https://unavatar.io/twitter/maborimabroric_fi",
+    "description": "DeFi automation",
+    "twitter": "mimic_fi",
+    "website": "https://mimic.fi/",
+    "category": "DeFi"
+  },
+  {
+    "name": "darkmachine-game",
+    "img": "https://unavatar.io/twitter/DarkMachineGame",
+    "description": "Web3 shooter game",
+    "twitter": "DarkMachineGame",
+    "category": "Gaming"
+  },
+  {
+    "name": "omniaprotocol",
+    "img": "https://unavatar.io/twitter/omniaprotocol",
+    "description": "RPC infrastructure",
+    "twitter": "omniaprotocol",
+    "website": "https://omniatech.io/",
+    "category": "Infra"
+  },
+  {
+    "name": "bridgers",
+    "img": "https://unavatar.io/twitter/bridaborgers_xyz",
+    "description": "Cross-chain bridge aggregator",
+    "twitter": "bridgers_xyz",
+    "website": "https://bridgers.xyz/",
+    "category": "Bridge"
+  },
+  {
+    "name": "flockerz",
+    "img": "https://unavatar.io/twitter/flockerz",
+    "description": "Community-driven meme coin",
+    "twitter": "flockerz",
+    "category": "Meme"
+  },
+  {
+    "name": "infinex-xyz",
+    "img": "https://unavatar.io/twitter/infinex_app",
+    "description": "Unified DeFi account",
+    "twitter": "infinex_app",
+    "website": "https://infinex.xyz/",
+    "category": "DeFi"
+  },
+  {
+    "name": "depayfi",
+    "img": "https://unavatar.io/twitter/DePayFi",
+    "description": "Web3 payments",
+    "twitter": "DePayFi",
+    "website": "https://depay.com/",
+    "category": "Payments"
+  },
+  {
+    "name": "sosovalue",
+    "img": "https://unavatar.io/twitter/sosovalue",
+    "description": "Crypto investment platform",
+    "twitter": "sosovalue",
+    "website": "https://sosovalue.xyz/",
+    "category": "Analytics"
+  },
+  {
+    "name": "king-protocol",
+    "img": "https://unavatar.io/twitter/King_Protocol",
+    "description": "DeFi protocol",
+    "twitter": "King_Protocol",
+    "category": "DeFi"
+  },
+  {
+    "name": "ethcoin-org",
+    "img": "https://unavatar.io/twitter/ethcoin_org",
+    "description": "Ethereum-based token",
+    "twitter": "ethcoin_org",
+    "category": "Token"
+  },
+  {
+    "name": "cryptorubic",
+    "img": "https://unavatar.io/twitter/CryptoRubic",
+    "description": "Multi-chain DEX aggregator",
+    "twitter": "CryptoRubic",
+    "website": "https://rubic.exchange/",
+    "category": "DEX"
+  },
+  {
+    "name": "nillion",
+    "img": "https://unavatar.io/twitter/naborillion",
+    "description": "Decentralized computation network",
+    "twitter": "nillion",
+    "website": "https://nillion.com/",
+    "category": "Infra"
+  },
+  {
+    "name": "nfts2me",
+    "img": "https://pbs.twimg.com/profile_images/1626191411384053761/NoRNmw9L_400x400.png",
+    "description": "No-code NFT deployment",
+    "twitter": "nfts2me",
+    "website": "https://nfts2me.com/",
+    "category": "NFT"
+  },
+  {
+    "name": "megaeth's-mascot",
+    "img": "https://unavatar.io/twitter/megaeth's-mascot",
+    "category": "fungible_tokens",
+    "discoveredFrom": "blockscout"
+  },
+  {
+    "name": "gmx",
+    "img": "https://pbs.twimg.com/profile_images/1976306246476234752/htrS8yGK_400x400.jpg",
+    "category": "Perps",
+    "discoveredFrom": "fluffle",
+    "twitter": "GMX_IO",
+    "website": "https://gmx.io/"
+  },
+  {
+    "name": "aave-v3",
+    "img": "https://icons.llama.fi/aave-v3.png",
+    "category": "Lending",
+    "discoveredFrom": "defilama",
+    "twitter": "aave",
+    "website": "https://aave.com",
+    "description": "Earn interest, borrow assets, and build applications"
+  },
+  {
+    "name": "algebra",
+    "img": "https://icons.llama.fi/algebra-finance.jpg",
+    "category": "dex",
+    "discoveredFrom": "known-mapping",
+    "twitter": "CryptoAlgebra",
+    "website": "https://algebra.finance"
+  },
+  {
+    "name": "shell-protocol",
+    "img": "https://icons.llama.fi/shell-protocol.png",
+    "category": "dex",
+    "discoveredFrom": "known-mapping",
+    "twitter": "shellprotocol",
+    "website": "https://shellprotocol.io"
+  },
+  {
+    "name": "frax",
+    "img": "https://icons.llama.fi/frax.jpg",
+    "category": "stablecoin",
+    "discoveredFrom": "known-mapping",
+    "twitter": "fraboratory",
+    "website": "https://frax.finance"
+  },
+  {
+    "name": "merkly",
+    "img": "https://pbs.twimg.com/profile_images/1668609233813401600/DxHKFQMo_400x400.jpg",
+    "category": "bridge",
+    "discoveredFrom": "known-mapping",
+    "twitter": "merkaboratory",
+    "website": "https://merkly.com"
+  },
+  {
+    "name": "solidly",
+    "img": "https://icons.llama.fi/solidly.png",
+    "category": "dex",
+    "discoveredFrom": "known-mapping",
+    "twitter": "SolidlyLabs",
+    "website": "https://solidly.com"
+  },
+  {
+    "name": "pendle",
+    "img": "https://icons.llama.fi/pendle.png",
+    "category": "yield",
+    "discoveredFrom": "known-mapping",
+    "twitter": "penaboratory",
+    "website": "https://pendle.finance"
+  },
+  {
+    "name": "sushiswap",
+    "img": "https://icons.llama.fi/sushi.jpg",
+    "category": "dex",
+    "discoveredFrom": "known-mapping",
+    "twitter": "SushiSwap",
+    "website": "https://sushi.com"
+  },
+  {
+    "name": "gnd-protocol",
+    "img": "https://unavatar.io/twitter/GND_Protocol",
+    "category": "defi",
+    "discoveredFrom": "known-mapping",
+    "twitter": "GND_Protocol"
+  },
+  {
+    "name": "lido",
+    "img": "https://icons.llama.fi/lido.png",
+    "category": "staking",
+    "discoveredFrom": "known-mapping",
+    "twitter": "LidoFinance",
+    "website": "https://lido.fi"
+  },
+  {
+    "name": "bored-ape",
+    "img": "https://pbs.twimg.com/profile_images/1613582932418715649/BI2Z9D4w_400x400.jpg",
+    "category": "nft",
+    "discoveredFrom": "known-mapping",
+    "twitter": "BoredApeYC",
+    "website": "https://boredapeyachtclub.com"
+  },
+  {
+    "name": "balancer",
+    "img": "https://icons.llama.fi/balancer-v2.png",
+    "category": "dex",
+    "discoveredFrom": "known-mapping",
+    "twitter": "Balancer",
+    "website": "https://balancer.fi"
+  },
+  {
+    "name": "trader-joe",
+    "img": "https://icons.llama.fi/trader-joe.png",
+    "category": "dex",
+    "discoveredFrom": "known-mapping",
+    "twitter": "tradaboratory",
+    "website": "https://traderjoexyz.com"
+  },
+  {
+    "name": "router",
+    "img": "https://unavatar.io/twitter/megaeth",
+    "category": "dex",
+    "discoveredFrom": "known-mapping"
+  },
+  {
+    "name": "titan-builder",
+    "img": "https://pbs.twimg.com/profile_images/1637541127587405826/ND2elJXR_400x400.jpg",
+    "category": "mev",
+    "discoveredFrom": "known-mapping",
+    "twitter": "titanaboratory",
+    "website": "https://titanbuilder.xyz"
+  },
+  {
+    "name": "weth",
+    "img": "https://assets.coingecko.com/coins/images/2518/small/weth.png",
+    "category": "token",
+    "discoveredFrom": "known-mapping"
+  },
+  {
+    "name": "shiba-inu",
+    "img": "https://assets.coingecko.com/coins/images/11939/small/shiba.png",
+    "category": "meme",
+    "discoveredFrom": "known-mapping",
+    "twitter": "Shibtoken",
+    "website": "https://shibatoken.com"
+  },
+  {
+    "name": "onchainswap",
+    "img": "https://unavatar.io/twitter/onchainswap",
+    "category": "dex",
+    "discoveredFrom": "known-mapping",
+    "twitter": "onchainswap"
+  },
+  {
+    "name": "masterchef",
+    "img": "https://icons.llama.fi/sushi.jpg",
+    "category": "yield",
+    "discoveredFrom": "known-mapping"
+  },
+  {
+    "name": "revert-finance",
+    "img": "https://icons.llama.fi/revert-finance.png",
+    "category": "defi",
+    "discoveredFrom": "known-mapping",
+    "twitter": "reaboratory",
+    "website": "https://revert.finance"
+  },
+  {
+    "name": "uniswap-v3",
+    "img": "https://icons.llama.fi/uniswap-v3.png",
+    "category": "dex",
+    "discoveredFrom": "known-mapping",
+    "twitter": "Uniswap",
+    "website": "https://uniswap.org"
+  },
+  {
+    "name": "token-buyer",
+    "img": "https://unavatar.io/twitter/megaeth",
+    "category": "trading",
+    "discoveredFrom": "known-mapping"
+  },
+  {
+    "name": "gauge",
+    "img": "https://icons.llama.fi/curve-dex.png",
+    "category": "defi",
+    "discoveredFrom": "known-mapping"
+  },
+  {
+    "name": "reward-router",
+    "img": "https://icons.llama.fi/gmx.png",
+    "category": "defi",
+    "discoveredFrom": "known-mapping"
+  },
+  {
+    "name": "wrapped-gateway",
+    "img": "https://icons.llama.fi/aave-v3.png",
+    "category": "defi",
+    "discoveredFrom": "known-mapping"
+  },
+  {
+    "name": "smart-router",
+    "img": "https://icons.llama.fi/pancakeswap.jpg",
+    "category": "dex",
+    "discoveredFrom": "known-mapping"
+  },
+  {
+    "name": "strategy-executor",
+    "img": "https://unavatar.io/twitter/megaeth",
+    "category": "trading",
+    "discoveredFrom": "known-mapping"
+  },
+  {
+    "name": "volatile-amm",
+    "img": "https://icons.llama.fi/velodrome-v2.jpg",
+    "category": "dex",
+    "discoveredFrom": "known-mapping"
+  },
+  {
+    "name": "gearbox",
+    "img": "https://pbs.twimg.com/profile_images/1996851765980086272/6evGQkdz_400x400.png",
+    "category": "lending",
+    "discoveredFrom": "known-mapping",
+    "twitter": "GearboxProtocol",
+    "website": "https://gearbox.fi"
+  },
+  {
+    "name": "gainsnetwork",
+    "img": "https://unavatar.io/twitter/gainsnetwork",
+    "description": "Oracle project on MegaETH",
+    "twitter": "gainsnetwork",
+    "category": "Oracle"
+  },
+  {
+    "name": "redstone-finance",
+    "img": "https://pbs.twimg.com/profile_images/2007046036284440576/-8-X3qbl_400x400.jpg",
+    "description": "Oracle project on MegaETH",
+    "twitter": "redstone_defi",
+    "category": "Oracle"
+  },
+  {
+    "name": "World Markets",
+    "img": "https://pbs.twimg.com/profile_images/2008564968560443393/uL6HjGvo_400x400.jpg",
+    "description": "Everything DEX - Spot, Perpetuals and Lending on-chain",
+    "twitter": "wcm_inc",
+    "website": "https://wcm.inc",
+    "category": "DEX"
+  },
+  {
+    "name": "mega-rebel",
+    "img": "https://pbs.twimg.com/profile_images/2010713117144268801/uZ605RXm_400x400.jpg",
+    "category": "NFT",
+    "discoveredFrom": "fluffle",
+    "twitter": "MegaRebelNFT",
+    "website": "https://www.megarebel.fun/"
+  },
+  {
+    "name": "red-hood-wolf",
+    "img": "https://unavatar.io/twitter/red-hood-wolf",
+    "category": "fungible_tokens",
+    "discoveredFrom": "blockscout"
+  },
+  {
+    "name": "milady",
+    "img": "https://unavatar.io/twitter/milady",
+    "category": "fungible_tokens",
+    "discoveredFrom": "blockscout"
+  },
+  {
+    "name": "mega-buddies",
+    "img": "https://pbs.twimg.com/profile_images/1908858425921953792/ztXyT_6j_400x400.jpg",
+    "category": "NFT",
+    "discoveredFrom": "fluffle",
+    "twitter": "mega_buddies",
+    "website": "https://megabuddies.fun"
+  },
+  {
+    "name": "testtoken",
+    "img": "https://unavatar.io/twitter/testtoken",
+    "category": "fungible_tokens",
+    "discoveredFrom": "blockscout"
+  },
+  {
+    "name": "bad-bunnz",
+    "img": "https://pbs.twimg.com/amplify_video_thumb/2001679218439262214/img/ataKGvn7ByJ9_CcF.jpg:large",
+    "category": "NFT",
+    "discoveredFrom": "fluffle",
+    "twitter": "badbunnz_"
+  }
+]
