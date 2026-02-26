@@ -2081,5 +2081,12 @@
     "category": "NFT",
     "discoveredFrom": "fluffle",
     "twitter": "badbunnz_"
+  },
+  {
+    "name": "Hunter Tales",
+    "img": "https://unavatar.io/twitter/hunter_tales",
+    "description": "Gaming project on MegaETH",
+    "twitter": "hunter_tales",
+    "category": "Gaming"
   }
 ]
