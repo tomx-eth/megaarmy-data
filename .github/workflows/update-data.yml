@@ -24,6 +24,9 @@ jobs:
       - name: Update from OLI
         run: node scripts/update-project-metadata.mjs --auto || echo "OLI update completed"
 
+      - name: Cleanup project names
+        run: node scripts/cleanup-names.mjs || echo "Name cleanup completed"
+
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
