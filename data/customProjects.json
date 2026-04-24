@@ -83960,5 +83960,54 @@
     "description": "Bridge project on MegaETH",
     "twitter": "debridge_finance",
     "category": "Bridge"
+  },
+  {
+    "name": "GMX",
+    "img": "https://unavatar.io/twitter/gmx_io",
+    "description": "DEX project on MegaETH",
+    "twitter": "gmx_io",
+    "category": "DEX"
+  },
+  {
+    "name": "Kumbaya",
+    "img": "https://unavatar.io/twitter/kumbaya_xyz",
+    "description": "DEX project on MegaETH",
+    "twitter": "kumbaya_xyz",
+    "category": "DEX"
+  },
+  {
+    "name": "CurrentX",
+    "img": "https://unavatar.io/twitter/CurrentXDex",
+    "description": "Token project on MegaETH",
+    "twitter": "CurrentXDex",
+    "category": "Token"
+  },
+  {
+    "name": "SectorOne",
+    "img": "https://unavatar.io/twitter/SectorOneDEX",
+    "description": "DEX project on MegaETH",
+    "twitter": "SectorOneDEX",
+    "category": "DEX"
+  },
+  {
+    "name": "TopStrike",
+    "img": "https://unavatar.io/twitter/topstrike_io",
+    "description": "Gaming project on MegaETH",
+    "twitter": "topstrike_io",
+    "category": "Gaming"
+  },
+  {
+    "name": "RedStone",
+    "img": "https://unavatar.io/twitter/redstone_defi",
+    "description": "Oracle project on MegaETH",
+    "twitter": "redstone_defi",
+    "category": "Oracle"
+  },
+  {
+    "name": "Debridge",
+    "img": "https://unavatar.io/twitter/debridge_finance",
+    "description": "Bridge project on MegaETH",
+    "twitter": "debridge_finance",
+    "category": "Bridge"
   }
 ]
