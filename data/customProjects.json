@@ -210527,5 +210527,82 @@
     "description": "DeFi project on MegaETH",
     "twitter": "zircuit_labs",
     "category": "DeFi"
+  },
+  {
+    "name": "Hyperlane",
+    "img": "https://unavatar.io/twitter/hyperlane_xyz",
+    "description": "Oracle project on MegaETH",
+    "twitter": "hyperlane_xyz",
+    "category": "Oracle"
+  },
+  {
+    "name": "SectorOne",
+    "img": "https://unavatar.io/twitter/SectorOneDEX",
+    "description": "DEX project on MegaETH",
+    "twitter": "SectorOneDEX",
+    "category": "DEX"
+  },
+  {
+    "name": "Gearbox",
+    "img": "https://unavatar.io/twitter/gearbox_fi",
+    "description": "Oracle project on MegaETH",
+    "twitter": "gearbox_fi",
+    "category": "Oracle"
+  },
+  {
+    "name": "Gmx",
+    "img": "https://unavatar.io/twitter/gmx_io",
+    "description": "DeFi project on MegaETH",
+    "twitter": "gmx_io",
+    "category": "DeFi"
+  },
+  {
+    "name": "Ethena",
+    "img": "https://unavatar.io/twitter/ethena_labs",
+    "description": "Token project on MegaETH",
+    "twitter": "ethena_labs",
+    "category": "Token"
+  },
+  {
+    "name": "Aori",
+    "img": "https://unavatar.io/twitter/aori_io",
+    "description": "DEX project on MegaETH",
+    "twitter": "aori_io",
+    "category": "DEX"
+  },
+  {
+    "name": "Euphoria",
+    "img": "https://unavatar.io/twitter/euphoria_finance",
+    "description": "DeFi project on MegaETH",
+    "twitter": "euphoria_finance",
+    "category": "DeFi"
+  },
+  {
+    "name": "Renzo",
+    "img": "https://unavatar.io/twitter/renzo_protocol",
+    "description": "Token project on MegaETH",
+    "twitter": "renzo_protocol",
+    "category": "Token"
+  },
+  {
+    "name": "Lombard",
+    "img": "https://unavatar.io/twitter/lombard_finance",
+    "description": "Token project on MegaETH",
+    "twitter": "lombard_finance",
+    "category": "Token"
+  },
+  {
+    "name": "Rango",
+    "img": "https://unavatar.io/twitter/rango_exchange",
+    "description": "Bridge project on MegaETH",
+    "twitter": "rango_exchange",
+    "category": "Bridge"
+  },
+  {
+    "name": "Zircuit",
+    "img": "https://unavatar.io/twitter/zircuit_labs",
+    "description": "DeFi project on MegaETH",
+    "twitter": "zircuit_labs",
+    "category": "DeFi"
   }
 ]
