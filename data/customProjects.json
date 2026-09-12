@@ -255663,5 +255663,61 @@
     "description": "DeFi project on MegaETH",
     "twitter": "euphoria_finance",
     "category": "DeFi"
+  },
+  {
+    "name": "Automata",
+    "img": "https://unavatar.io/twitter/automata_network",
+    "description": "DeFi project on MegaETH",
+    "twitter": "automata_network",
+    "category": "DeFi"
+  },
+  {
+    "name": "Redstone",
+    "img": "https://unavatar.io/twitter/redstone_defi",
+    "description": "Oracle project on MegaETH",
+    "twitter": "redstone_defi",
+    "category": "Oracle"
+  },
+  {
+    "name": "SectorOne",
+    "img": "https://unavatar.io/twitter/SectorOneDEX",
+    "description": "DEX project on MegaETH",
+    "twitter": "SectorOneDEX",
+    "category": "DEX"
+  },
+  {
+    "name": "Gearbox",
+    "img": "https://unavatar.io/twitter/gearbox_fi",
+    "description": "Oracle project on MegaETH",
+    "twitter": "gearbox_fi",
+    "category": "Oracle"
+  },
+  {
+    "name": "Gmx",
+    "img": "https://unavatar.io/twitter/gmx_io",
+    "description": "DeFi project on MegaETH",
+    "twitter": "gmx_io",
+    "category": "DeFi"
+  },
+  {
+    "name": "Metrom",
+    "img": "https://unavatar.io/twitter/metrom_xyz",
+    "description": "DeFi project on MegaETH",
+    "twitter": "metrom_xyz",
+    "category": "DeFi"
+  },
+  {
+    "name": "Aori",
+    "img": "https://unavatar.io/twitter/aori_io",
+    "description": "DEX project on MegaETH",
+    "twitter": "aori_io",
+    "category": "DEX"
+  },
+  {
+    "name": "Euphoria",
+    "img": "https://unavatar.io/twitter/euphoria_finance",
+    "description": "DeFi project on MegaETH",
+    "twitter": "euphoria_finance",
+    "category": "DeFi"
   }
 ]
